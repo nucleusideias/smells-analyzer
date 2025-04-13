@@ -4,7 +4,9 @@ Code smells analyzer sisteam, powered with LLM Model e dataset context.
 # Membros da equipe:
 
 Carlos Magalhães Silva
+
 Diogo do Nascimento Rodrigues - Matemática Computacional
+
 Henrique César Alves de Souza
 
 # Objetivo
