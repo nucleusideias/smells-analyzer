@@ -1,5 +1,5 @@
 # Smells-analyzer
-Code smells analyzer sistem, powered with LLM Model e dataset context.
+Code smells analyzer system, powered with LLM Model e dataset context.
 
 # Membros da equipe:
 
