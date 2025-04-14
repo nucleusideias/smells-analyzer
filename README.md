@@ -7,9 +7,9 @@ Carlos Magalhães Silva
 
 Diogo do Nascimento Rodrigues - Matemática Computacional
 
-Henrique César Alves de Souza
+Henrique César Alves de Souza - Sistemas de Informação
 
-Kaique de Oliveira e Silva 
+Kaique de Oliveira e Silva - Sistemas de Informação
 
 # Objetivo do Trabalho
 
