@@ -9,6 +9,8 @@ Diogo do Nascimento Rodrigues - Matemática Computacional
 
 Henrique César Alves de Souza
 
+Kaique de Oliveira e Silva 
+
 # Objetivo do Trabalho
 
 O objetivo deste trabalho acadêmico é desenvolver uma aplicação que utilize uma Linguagem de Modelo de Grande Escala (LLM) e um conjunto de dados robusto para analisar códigos de programação, identificar "code smells" e sugerir correções eficazes. Os "code smells" são padrões de código que podem indicar problemas de manutenibilidade, legibilidade ou eficiência, e sua detecção é crucial para melhorar a qualidade do software. Além do desenvolvimento será realizado testes, análises qualitativas e quantitativas para verificação de eficiência, viabilidade, usabilidade e geração de dados de conclusão.
