@@ -3,7 +3,7 @@ Code smells analyzer system, powered with LLM Model e dataset context.
 
 # Membros da equipe:
 
-Carlos Magalhães Silva
+Carlos Magalhães Silva - Ciência da Computação
 
 Diogo do Nascimento Rodrigues - Matemática Computacional
 
